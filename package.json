@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.timeutilities",
 	"version": "1.0.0",
-	"displayName": "Time Utilities",
+	"displayName": "Five - Time Utilities",
 	"description": "Contain some functions for time",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
